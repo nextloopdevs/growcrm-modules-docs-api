@@ -1,0 +1,72 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Grow CRM API",
+  "colors": {
+    "primary": "#16a34a",
+    "light": "#22c55e",
+    "dark": "#15803d"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "getting-started",
+          "authentication"
+        ]
+      },
+      {
+        "group": "Clients",
+        "pages": [
+          "clients",
+          "contacts"
+        ]
+      },
+      {
+        "group": "Sales",
+        "pages": [
+          "leads",
+          "estimates",
+          "proposals",
+          "contracts"
+        ]
+      },
+      {
+        "group": "Billing",
+        "pages": [
+          "invoices",
+          "payments",
+          "refunds",
+          "subscriptions",
+          "expenses",
+          "items"
+        ]
+      },
+      {
+        "group": "Projects & Work",
+        "pages": [
+          "projects",
+          "milestones",
+          "tasks",
+          "checklists",
+          "timesheets"
+        ]
+      },
+      {
+        "group": "Support",
+        "pages": [
+          "tickets"
+        ]
+      },
+      {
+        "group": "Organization",
+        "pages": [
+          "team",
+          "categories",
+          "notes"
+        ]
+      }
+    ]
+  }
+}
