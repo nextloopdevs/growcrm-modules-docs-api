@@ -1,6 +1,6 @@
 ---
 title: Expenses
-description: Create, update, delete, list, tag, attach and clone expenses via the Grow CRM API.
+description: Create, update, delete, list, tag, attach and clone expenses via the CRM API.
 ---
 
 # Expenses

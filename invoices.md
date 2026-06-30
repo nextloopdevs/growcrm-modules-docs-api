@@ -1,6 +1,6 @@
 ---
 title: Invoices
-description: Create, update, delete, list, line-item, publish and email invoices via the Grow CRM API.
+description: Create, update, delete, list, line-item, publish and email invoices via the CRM API.
 ---
 
 # Invoices

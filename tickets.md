@@ -1,6 +1,6 @@
 ---
 title: Tickets
-description: Create, update, delete, list, status, archive, tag and reply to support tickets via the Grow CRM API.
+description: Create, update, delete, list, status, archive, tag and reply to support tickets via the CRM API.
 ---
 
 # Tickets

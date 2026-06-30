@@ -1,6 +1,6 @@
 ---
 title: Projects
-description: Create, update, delete, list and search projects via the Grow CRM API.
+description: Create, update, delete, list and search projects via the CRM API.
 ---
 
 # Projects

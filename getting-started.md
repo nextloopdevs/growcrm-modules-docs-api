@@ -1,11 +1,11 @@
 ---
 title: Getting started
-description: Base URL, conventions, responses and errors for the Grow CRM API.
+description: Base URL, conventions, responses and errors for the CRM API.
 ---
 
 # Getting started
 
-The Grow CRM API is a JSON REST API. This page covers the conventions shared by every endpoint.
+The CRM API is a JSON REST API. This page covers the conventions shared by every endpoint.
 For credentials, see **[Authentication](/authentication)**.
 
 ## Base URL

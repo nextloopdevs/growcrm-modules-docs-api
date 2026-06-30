@@ -1,4 +1,4 @@
-# Grow CRM — API Development Guide
+# CRM — API Development Guide
 
 How to build API endpoints in the API module consistently. The **Projects** endpoint
 (`Modules/Api/Http/Controllers/Projects/Projects.php`) is the canonical reference — copy its

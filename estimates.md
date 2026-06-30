@@ -1,6 +1,6 @@
 ---
 title: Estimates
-description: Create, update, delete, list, line-item, publish, email and convert estimates via the Grow CRM API.
+description: Create, update, delete, list, line-item, publish, email and convert estimates via the CRM API.
 ---
 
 # Estimates

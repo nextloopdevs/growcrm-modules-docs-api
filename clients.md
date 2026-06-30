@@ -1,6 +1,6 @@
 ---
 title: Clients
-description: Create, update, delete, list and search clients via the Grow CRM API.
+description: Create, update, delete, list and search clients via the CRM API.
 ---
 
 # Clients

@@ -1,6 +1,6 @@
 ---
 title: Team
-description: Create, update, delete and list team members (staff users) via the Grow CRM API.
+description: Create, update, delete and list team members (staff users) via the CRM API.
 ---
 
 # Team

@@ -1,6 +1,6 @@
 ---
 title: Contacts
-description: Create, update, delete, list and search contacts (client users) via the Grow CRM API.
+description: Create, update, delete, list and search contacts (client users) via the CRM API.
 ---
 
 # Contacts

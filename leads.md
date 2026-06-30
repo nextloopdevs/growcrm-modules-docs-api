@@ -1,6 +1,6 @@
 ---
 title: Leads
-description: Create, update, delete, list, convert, clone and manage leads via the Grow CRM API.
+description: Create, update, delete, list, convert, clone and manage leads via the CRM API.
 ---
 
 # Leads

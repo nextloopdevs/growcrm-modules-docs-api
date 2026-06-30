@@ -1,6 +1,6 @@
 ---
 title: Subscriptions
-description: List, read, update, cancel and delete Stripe subscriptions via the Grow CRM API.
+description: List, read, update, cancel and delete Stripe subscriptions via the CRM API.
 ---
 
 # Subscriptions

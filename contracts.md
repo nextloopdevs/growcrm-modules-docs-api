@@ -1,6 +1,6 @@
 ---
 title: Contracts
-description: Create, update, delete, list, clone and manage contracts via the Grow CRM API.
+description: Create, update, delete, list, clone and manage contracts via the CRM
 ---
 
 # Contracts
