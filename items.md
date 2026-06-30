@@ -1,6 +1,6 @@
 ---
 title: Items (Products)
-description: Create, update, delete and list catalog items (products/services) via the CRM API.
+description: Create, update, delete and list catalog items (products/services) via the Grow CRM API.
 ---
 
 # Items

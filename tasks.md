@@ -1,6 +1,6 @@
 ---
 title: Tasks
-description: Create, update, delete, list, clone and manage project tasks via the CRM API.
+description: Create, update, delete, list, clone and manage project tasks via the Grow CRM API.
 ---
 
 # Tasks

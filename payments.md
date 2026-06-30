@@ -1,6 +1,6 @@
 ---
 title: Payments
-description: Record, update, delete, list, tag and refund invoice payments via the CRM API.
+description: Record, update, delete, list, tag and refund invoice payments via the Grow CRM API.
 ---
 
 # Payments

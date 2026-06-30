@@ -1,6 +1,6 @@
 ---
 title: Categories
-description: Create, update, delete, list and search categories via the CRM API.
+description: Create, update, delete, list and search categories via the Grow CRM API.
 ---
 
 # Categories

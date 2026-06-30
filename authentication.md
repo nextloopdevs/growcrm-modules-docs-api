@@ -1,11 +1,11 @@
 ---
 title: Authentication
-description: How to authenticate requests to the CRM API.
+description: How to authenticate requests to the Grow CRM API.
 ---
 
 # Authentication
 
-Every CRM API request is authenticated with an **API key**, sent as a Bearer token in the
+Every Grow CRM API request is authenticated with an **API key**, sent as a Bearer token in the
 `Authorization` header:
 
 ```

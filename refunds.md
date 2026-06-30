@@ -1,6 +1,6 @@
 ---
 title: Refunds
-description: Create, update, delete, list and tag payment refunds via the CRM API.
+description: Create, update, delete, list and tag payment refunds via the Grow CRM API.
 ---
 
 # Refunds

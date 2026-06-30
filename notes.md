@@ -1,6 +1,6 @@
 ---
 title: Notes
-description: Create, update, delete, list and tag notes via the CRM API.
+description: Create, update, delete, list and tag notes via the Grow CRM API.
 ---
 
 # Notes

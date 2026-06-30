@@ -1,6 +1,6 @@
 ---
 title: Checklists
-description: Create, update, delete, list, reorder and comment on checklists via the CRM API.
+description: Create, update, delete, list, reorder and comment on checklists via the Grow CRM API.
 ---
 
 # Checklists

@@ -1,6 +1,6 @@
 ---
 title: Milestones
-description: Create, update, delete, list and reorder project milestones via the CRM API.
+description: Create, update, delete, list and reorder project milestones via the Grow CRM API.
 ---
 
 # Milestones

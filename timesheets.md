@@ -1,6 +1,6 @@
 ---
 title: Timesheets
-description: Record, update, delete and list time entries (timesheets) via the CRM API.
+description: Record, update, delete and list time entries (timesheets) via the Grow CRM API.
 ---
 
 # Timesheets

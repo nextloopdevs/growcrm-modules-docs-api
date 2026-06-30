@@ -1,6 +1,6 @@
 ---
 title: Proposals
-description: Create, update, delete, list, clone and manage proposals via the CRM API.
+description: Create, update, delete, list, clone and manage proposals via the Grow CRM API.
 ---
 
 # Proposals
