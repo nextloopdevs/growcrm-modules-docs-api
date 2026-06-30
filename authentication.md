@@ -14,7 +14,7 @@ Authorization: Bearer YOUR_API_KEY
 
 ## Obtaining a key
 
-API keys are created inside the CRM under **Settings → API Keys**. Give the key a name and the
+API keys are created inside the CRM under **App → Settings → API → API Keys**. Give the key a name and the
 system generates its value. Treat the key like a password — anyone with it has full API access.
 
 ## Privileges
