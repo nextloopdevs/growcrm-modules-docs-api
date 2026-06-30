@@ -8,8 +8,8 @@ description: Create, update, delete, list, convert, clone and manage leads via t
 The Leads API provides CRUD access to leads, plus ancillary actions for status, assignment,
 tags, archive/activate, convert-to-client, clone and comments.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys). Those
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys). Those
 > conventions apply to every endpoint below and are not repeated here.
 
 > **Identifier note:** leads are addressed by their numeric **`lead_id`**. Wherever `{id}`
@@ -18,7 +18,7 @@ tags, archive/activate, convert-to-client, clone and comments.
 
 > **Scope:** attachments/cover image, per-user notes, activity logs, kanban position, bulk
 > actions and pinning are managed in-app and are **not** part of this API. Checklists on a lead
-> are handled by the **[Checklists](checklists.md)** API (`resource_type=lead`).
+> are handled by the **[Checklists](/checklists)** API (`resource_type=lead`).
 
 ## The lead object
 
@@ -458,7 +458,7 @@ Returns `{ "data": { "id": 9 }, "message": "Lead comment deleted successfully." 
 
 ## Errors
 
-See [Getting started](getting-started.md#errors) for the shared error format. Lead-specific:
+See [Getting started](/getting-started#errors) for the shared error format. Lead-specific:
 
 | Status | Meaning |
 |---|---|

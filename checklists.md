@@ -8,8 +8,8 @@ description: Create, update, delete, list, reorder and comment on checklists via
 The Checklists API manages checklist items that belong to a **parent resource** (for example a
 task or a project), plus their status, ordering and comments.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys). Those
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys). Those
 > conventions apply to every endpoint below and are not repeated here.
 
 > **Identifier note:** checklist items are addressed by their numeric **`checklist_id`**. Each
@@ -391,7 +391,7 @@ Returns `{ "data": { "id": 9 }, "message": "Checklist comment deleted successful
 
 ## Errors
 
-See [Getting started](getting-started.md#errors) for the shared error format. Checklist-specific:
+See [Getting started](/getting-started#errors) for the shared error format. Checklist-specific:
 
 | Status | Meaning |
 |---|---|

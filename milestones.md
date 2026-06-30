@@ -7,8 +7,8 @@ description: Create, update, delete, list and reorder project milestones via the
 
 The Milestones API provides CRUD access to project milestones plus bulk reordering.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys).
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys).
 
 > **Identifier note:** milestones are addressed by their numeric **`milestone_id`**.
 
@@ -143,7 +143,7 @@ curl -X PUT https://your-domain/api/milestones/positions -H "Authorization: Bear
 
 ## Errors
 
-See [Getting started](getting-started.md#errors). Milestone-specific:
+See [Getting started](/getting-started#errors). Milestone-specific:
 
 | Status | Meaning |
 |---|---|

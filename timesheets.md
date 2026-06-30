@@ -7,8 +7,8 @@ description: Record, update, delete and list time entries (timesheets) via the G
 
 The Timesheets API provides CRUD access to time entries — time logged against a task.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys).
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys).
 
 > **Identifier note:** timesheets are addressed by their numeric **`timer_id`**.
 
@@ -16,7 +16,7 @@ The Timesheets API provides CRUD access to time entries — time logged against 
 > performed the work, and the duration (`hours` + `minutes`); the project and client are derived
 > from the task. The duration must total at least one minute.
 
-> **Scope:** live timer **start/stop** is on the [Tasks](tasks.md) API (task-timers list +
+> **Scope:** live timer **start/stop** is on the [Tasks](/tasks) API (task-timers list +
 > stop-all). Bulk delete, pinning, settings and the stats widget are out of scope. The
 > **billing status** is managed by invoicing, not editable here.
 
@@ -131,7 +131,7 @@ DELETE /api/timesheets/{id}
 
 ## Errors
 
-See [Getting started](getting-started.md#errors). Timesheet-specific:
+See [Getting started](/getting-started#errors). Timesheet-specific:
 
 | Status | Meaning |
 |---|---|

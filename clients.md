@@ -8,8 +8,8 @@ description: Create, update, delete, list and search clients via the Grow CRM AP
 The Clients API provides CRUD access to clients, plus ancillary actions for setting tags,
 changing the status, and changing the account owner.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys). Those
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys). Those
 > conventions apply to every endpoint below and are not repeated here.
 
 > **Identifier note:** unlike most resources, clients are addressed by their **numeric
@@ -438,7 +438,7 @@ Returns the client (`200`) with `message` "Client account owner updated successf
 
 ## Errors
 
-See [Getting started](getting-started.md#errors) for the shared error format. Client-specific:
+See [Getting started](/getting-started#errors) for the shared error format. Client-specific:
 
 | Status | Meaning |
 |---|---|

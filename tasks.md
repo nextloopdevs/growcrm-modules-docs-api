@@ -8,8 +8,8 @@ description: Create, update, delete, list, clone and manage project tasks via th
 The Tasks API provides CRUD access to project tasks, plus ancillary actions for status,
 assignment, tags, archive/activate, clone, comments and timers.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys). Those
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys). Those
 > conventions apply to every endpoint below and are not repeated here.
 
 > **Identifier note:** tasks are addressed by their numeric **`task_id`** and always belong to a
@@ -19,7 +19,7 @@ assignment, tags, archive/activate, clone, comments and timers.
 > **Scope:** starting/stopping individual timers, recurring settings, task dependencies, per-user
 > notes, attachments/cover image, kanban position, bulk actions and pinning are managed in-app
 > and are **not** part of this API. Checklists on a task are handled by the
-> **[Checklists](checklists.md)** API (`resource_type=task`). Timers are read-only here, plus a
+> **[Checklists](/checklists)** API (`resource_type=task`). Timers are read-only here, plus a
 > stop-all command.
 
 ## The task object
@@ -395,7 +395,7 @@ DELETE /api/tasks/{id}/comments/{comment_id}
 
 ## Errors
 
-See [Getting started](getting-started.md#errors) for the shared error format. Task-specific:
+See [Getting started](/getting-started#errors) for the shared error format. Task-specific:
 
 | Status | Meaning |
 |---|---|

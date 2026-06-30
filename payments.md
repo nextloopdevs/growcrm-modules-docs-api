@@ -7,8 +7,8 @@ description: Record, update, delete, list, tag and refund invoice payments via t
 
 The Payments API provides CRUD access to payments, tags, and the refund sub-resource.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys).
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys).
 
 > **Identifier note:** payments are addressed by their numeric **`payment_id`**.
 
@@ -202,7 +202,7 @@ Deletes the linked refund and marks the payment `paid` again. Returns the paymen
 
 ## Errors
 
-See [Getting started](getting-started.md#errors). Payment-specific:
+See [Getting started](/getting-started#errors). Payment-specific:
 
 | Status | Meaning |
 |---|---|

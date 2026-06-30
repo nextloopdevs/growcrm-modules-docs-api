@@ -8,8 +8,8 @@ description: Create, update, delete, list, clone and manage contracts via the Gr
 The Contracts API provides CRUD access to contracts (signable documents), plus ancillary actions
 for tags and cloning.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys). Those
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys). Those
 > conventions apply to every endpoint below and are not repeated here.
 
 > **Identifier note:** contracts are addressed by their numeric **`doc_id`**. Wherever `{id}`
@@ -352,7 +352,7 @@ Returns the **new** contract (`201`) with `message` "Contract cloned successfull
 
 ## Errors
 
-See [Getting started](getting-started.md#errors) for the shared error format. Contract-specific:
+See [Getting started](/getting-started#errors) for the shared error format. Contract-specific:
 
 | Status | Meaning |
 |---|---|

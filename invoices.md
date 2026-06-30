@@ -8,8 +8,8 @@ description: Create, update, delete, list, line-item, publish and email invoices
 The Invoices API provides CRUD access to invoices, line-item management, status, tags, clone,
 publish and email.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys).
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys).
 
 > **Identifier note:** invoices are addressed by their numeric **`bill_invoiceid`**.
 
@@ -282,7 +282,7 @@ curl -X POST https://your-domain/api/invoices/295/send-email -H "Authorization: 
 
 ## Errors
 
-See [Getting started](getting-started.md#errors). Invoice-specific:
+See [Getting started](/getting-started#errors). Invoice-specific:
 
 | Status | Meaning |
 |---|---|

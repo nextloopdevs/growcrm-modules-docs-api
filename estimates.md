@@ -8,8 +8,8 @@ description: Create, update, delete, list, line-item, publish, email and convert
 The Estimates API provides CRUD access to estimates, line-item management, status, tags, clone,
 publish, email and convert-to-invoice.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys).
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys).
 
 > **Identifier note:** estimates are addressed by their numeric **`bill_estimateid`**.
 
@@ -289,7 +289,7 @@ POST /api/estimates/{id}/convert-to-invoice
 ```
 
 Creates an invoice from the estimate (carrying over the line items and totals) and links the two.
-No body. Returns the **new invoice** object (`201`) — see [Invoices](invoices.md).
+No body. Returns the **new invoice** object (`201`) — see [Invoices](/invoices).
 
 ```bash
 curl -X POST https://your-domain/api/estimates/100/convert-to-invoice -H "Authorization: Bearer YOUR_API_KEY"
@@ -299,7 +299,7 @@ curl -X POST https://your-domain/api/estimates/100/convert-to-invoice -H "Author
 
 ## Errors
 
-See [Getting started](getting-started.md#errors). Estimate-specific:
+See [Getting started](/getting-started#errors). Estimate-specific:
 
 | Status | Meaning |
 |---|---|

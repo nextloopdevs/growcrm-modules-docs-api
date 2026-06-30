@@ -8,8 +8,8 @@ description: Create, update, delete, list and search contacts (client users) via
 The Contacts API provides CRUD access to contacts — the users that belong to a client account
 (`type = client`) — plus an ancillary action for setting a contact as the client's account owner.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys). Those
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys). Those
 > conventions apply to every endpoint below and are not repeated here.
 
 > **Identifier note:** contacts are addressed by their numeric **`id`**. Wherever `{id}` appears
@@ -337,7 +337,7 @@ owner successfully."
 
 ## Errors
 
-See [Getting started](getting-started.md#errors) for the shared error format. Contact-specific:
+See [Getting started](/getting-started#errors) for the shared error format. Contact-specific:
 
 | Status | Meaning |
 |---|---|

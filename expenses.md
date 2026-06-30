@@ -7,8 +7,8 @@ description: Create, update, delete, list, tag, attach and clone expenses via th
 
 The Expenses API provides CRUD access to expenses, tags, the attach/detach action and clone.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys).
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys).
 
 > **Identifier note:** expenses are addressed by their numeric **`expense_id`**.
 
@@ -190,7 +190,7 @@ Returns the **new** expense (`201`).
 
 ## Errors
 
-See [Getting started](getting-started.md#errors). Expense-specific:
+See [Getting started](/getting-started#errors). Expense-specific:
 
 | Status | Meaning |
 |---|---|

@@ -6,7 +6,7 @@ description: Base URL, conventions, responses and errors for the Grow CRM API.
 # Getting started
 
 The Grow CRM API is a JSON REST API. This page covers the conventions shared by every endpoint.
-For credentials, see **[Authentication](authentication.md)**.
+For credentials, see **[Authentication](/authentication)**.
 
 ## Base URL
 
@@ -15,7 +15,7 @@ https://your-domain/api
 ```
 
 On the multitenant (SaaS) edition this is your own account domain — see
-[Authentication](authentication.md).
+[Authentication](/authentication).
 
 ## Making a request
 

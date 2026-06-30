@@ -8,8 +8,8 @@ description: Create, update, delete and list catalog items (products/services) v
 The Items API provides CRUD access to the product/service catalog. Catalog items populate
 invoice and estimate line items.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys).
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys).
 
 > **Identifier note:** items are addressed by their numeric **`item_id`**.
 
@@ -128,7 +128,7 @@ DELETE /api/items/{id}
 
 ## Errors
 
-See [Getting started](getting-started.md#errors). Item-specific:
+See [Getting started](/getting-started#errors). Item-specific:
 
 | Status | Meaning |
 |---|---|

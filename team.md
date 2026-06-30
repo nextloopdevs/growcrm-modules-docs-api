@@ -7,8 +7,8 @@ description: Create, update, delete and list team members (staff users) via the 
 
 The Team API provides CRUD access to team members (staff users).
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys).
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys).
 
 > **Identifier note:** team members are addressed by their numeric **user `id`**.
 
@@ -126,7 +126,7 @@ lead assignments, project-manager rows and calendar events.
 
 ## Errors
 
-See [Getting started](getting-started.md#errors). Team-specific:
+See [Getting started](/getting-started#errors). Team-specific:
 
 | Status | Meaning |
 |---|---|

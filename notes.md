@@ -7,8 +7,8 @@ description: Create, update, delete, list and tag notes via the Grow CRM API.
 
 The Notes API provides CRUD access to notes plus tags.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys).
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys).
 
 > **Identifier note:** notes are addressed by their numeric **`note_id`**.
 
@@ -128,7 +128,7 @@ Full-set replace (empty clears).
 
 ## Errors
 
-See [Getting started](getting-started.md#errors). Note-specific:
+See [Getting started](/getting-started#errors). Note-specific:
 
 | Status | Meaning |
 |---|---|

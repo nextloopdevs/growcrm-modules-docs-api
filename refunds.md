@@ -7,8 +7,8 @@ description: Create, update, delete, list and tag payment refunds via the Grow C
 
 The Refunds API provides CRUD access to refunds plus tags.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys).
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys).
 
 > **Identifier note:** refunds are addressed by their numeric **`refund_id`**.
 
@@ -141,7 +141,7 @@ Full-set replace (empty clears).
 
 ## Errors
 
-See [Getting started](getting-started.md#errors). Refund-specific:
+See [Getting started](/getting-started#errors). Refund-specific:
 
 | Status | Meaning |
 |---|---|

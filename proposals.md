@@ -8,8 +8,8 @@ description: Create, update, delete, list, clone and manage proposals via the Gr
 The Proposals API provides CRUD access to proposals (documents sent to a client or a lead), plus
 ancillary actions for status, tags and cloning.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys). Those
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys). Those
 > conventions apply to every endpoint below and are not repeated here.
 
 > **Identifier note:** proposals are addressed by their numeric **`doc_id`**. Wherever `{id}`
@@ -393,7 +393,7 @@ Returns the **new** proposal (`201`) with `message` "Proposal cloned successfull
 
 ## Errors
 
-See [Getting started](getting-started.md#errors) for the shared error format. Proposal-specific:
+See [Getting started](/getting-started#errors) for the shared error format. Proposal-specific:
 
 | Status | Meaning |
 |---|---|

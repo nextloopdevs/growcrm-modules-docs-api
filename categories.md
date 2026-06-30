@@ -8,8 +8,8 @@ description: Create, update, delete, list and search categories via the Grow CRM
 The Categories API provides CRUD access to categories, plus ancillary actions for assigning team
 members to a category and migrating a category's resources into another category.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys). Those
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys). Those
 > conventions apply to every endpoint below and are not repeated here.
 
 > **Identifier note:** categories are addressed by their numeric **`category_id`**. Wherever
@@ -352,7 +352,7 @@ Returns the source category (`200`) with `message` "Category resources migrated 
 
 ## Errors
 
-See [Getting started](getting-started.md#errors) for the shared error format. Category-specific:
+See [Getting started](/getting-started#errors) for the shared error format. Category-specific:
 
 | Status | Meaning |
 |---|---|

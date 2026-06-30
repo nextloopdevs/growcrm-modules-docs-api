@@ -8,8 +8,8 @@ description: Create, update, delete, list, status, archive, tag and reply to sup
 The Tickets API provides CRUD access to support tickets plus status, archive/restore, tags and
 the reply conversation.
 
-> New to the API? Start with **[Getting started](getting-started.md)** (base URL, response
-> envelope, errors, pagination) and **[Authentication](authentication.md)** (API keys).
+> New to the API? Start with **[Getting started](/getting-started)** (base URL, response
+> envelope, errors, pagination) and **[Authentication](/authentication)** (API keys).
 
 > **Identifier note:** tickets are addressed by their numeric **`ticket_id`**.
 
@@ -198,7 +198,7 @@ does not send a client email (silent semantics).
 
 ## Errors
 
-See [Getting started](getting-started.md#errors). Ticket-specific:
+See [Getting started](/getting-started#errors). Ticket-specific:
 
 | Status | Meaning |
 |---|---|
