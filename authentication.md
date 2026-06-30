@@ -28,10 +28,10 @@ omitted).
 
 ## Multitenant (SaaS)
 
-On the multitenant edition, call the API on **your own account domain**:
+On the SaaS subscription edition, call the API on **your own account domain**:
 
 ```
-https://your-domain/api/...
+https://abcd.domain.com/api/...
 ```
 
 The domain identifies your account, and the API key is validated against your account's data.
